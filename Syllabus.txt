@@ -1,0 +1,34 @@
+﻿Syllabus: Linear Algebra ~ Machine Learning II
+
+
+1. Vectors
+   1. Vectors
+   2. Vector addition
+   3. Scaler-vector multiplication
+   4. Inner product
+   5. Complexity of vector computations
+2. Linear functions
+   1. Linear functions
+   2. Taylor approximation
+   3. Regression model
+3. Norm and distance
+   1. Norm
+   2. Distance 
+   3. Standard deviation
+   4. Angle
+   5. Complexity
+4. Clustering
+   1. Clustering
+   2. A clustering objective
+   3. The k-means algorithm
+5. Linear independence
+   1. Linear dependence
+   2. Basis
+   3. Orthonormal vectors
+   4. Gram-Schmidt algorithm
+6. Matrices
+   1. Matrices
+   2. Zero and identity matrices
+   3. Transpose, addition, and norm 
+   4. Matrix-vector multiplication
+   5. Complexity
